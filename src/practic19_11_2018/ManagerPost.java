@@ -13,6 +13,7 @@ public class ManagerPost {
         System.out.println("enter title");
         String title = sc.next();
         System.out.println("enter description");
+        System.out.println("!!! WARNING !!! description you should enter: lookingJob  OR  offerJob");
         String descript = sc.next();
         System.out.println("enter first name");
         String firstName = sc.next();
